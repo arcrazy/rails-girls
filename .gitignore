@@ -16,3 +16,6 @@
 /tmp
 /public/uploads
 /logs
+public/uploads
+tmp
+logs
